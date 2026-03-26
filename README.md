@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <em>Frontend Developer • React Enthusiast • Exploring Data Analysis & AI</em><br>
+  <em>FullStack Developer • React Enthusiast • Exploring Data Analysis & AI</em><br>
   Based in Mumbai, Maharashtra, India 🇮🇳
 </p>
 
@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  HTML5 • CSS3 • JavaScript • React • Git • GitHub • Learning: Python • Pandas • AI basics
+  HTML5 • CSS3 • JavaScript • React • Git • GitHub • Learning: Python • Pandas • ML • AI basics
 </p>
 
 ---
